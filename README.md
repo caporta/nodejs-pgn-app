@@ -19,5 +19,5 @@ $ node app.js <gameID1> <gameID2> <gameID3>...
 > Also, if you chose to run a computer analysis on any particular game, this will be reflected within the PGN.
 
 ## Shout Out
-> [**lichess.org**](http://lichess.org) is a fantastic real-time chess site website with tournaments, puzzles, teams, and analysis with a UI available in 80 languages.
+> [**lichess.org**](http://lichess.org) is an awesome real-time chess site website with tournaments, puzzles, teams, and analysis with a UI available in 80 languages.
 > Check out [**their GitHub**](https://github.com/ornicar/lila).
