@@ -8,16 +8,6 @@
 > TODO: After cloning or downloading the repo, simply move to its root directory and run the following:
 
 ```
-$ curl http://en.lichess.org/api/game?username=<username> | grep '"id"'
-```
-> **_curl_** will return a user's basic game details from his or her previous 10 games by descendant chronological order,
-> while **_grep_** will highlight the user's game IDs for your reference.
-
-> Note that this first step is optional -- if you already have your reference gameID(s) on hand, use those.
-
-> TODO: Next, run:
-
-```
 $ node app.js <gameID1> <gameID2> <gameID3>...
 ```
 
